@@ -4,9 +4,11 @@
 // @version      1.0.0
 // @description  Export your ChatGPT conversations as clean Markdown files
 // @author       Rashid Azarang
+// @author       Petr Aleksandrovich Sabanov
 // @match        https://chat.openai.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=openai.com
 // @grant        none
+// @license      AGPL-3.0-or-later
 // @license      MIT
 // @homepageURL  https://github.com/rashidazarang/chatgpt-chat-exporter
 // @supportURL   https://github.com/rashidazarang/chatgpt-chat-exporter/issues

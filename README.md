@@ -82,4 +82,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
 
 ## 📜 License
 
-[MIT](LICENSE)
+### Original work
+
+The original work is licensed under the [MIT license](LICENSE.old).
+
+Copyright (c) 2025-2026 Rashid Azarang
+
+### Modified work
+
+All new changes are licensed under, and the original work is sublicensed under, the [AGPL-3.0-or-later license](LICENSE).
+
+Copyright © 2025 Petr Aleksandrovich Sabanov.
+
+## Metrics
+
+![repo size](https://img.shields.io/github/repo-size/pasabanov/chatgpt-chat-exporter?color=8250DF)
