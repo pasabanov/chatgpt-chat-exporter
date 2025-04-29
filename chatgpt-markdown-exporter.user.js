@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ChatGPT Chat Exporter - Markdown
 // @namespace    https://github.com/rashidazarang/chatgpt-chat-exporter
-// @version      2.0.0
+// @version      2.1.0
 // @description  Export your ChatGPT conversations as clean Markdown files
 // @author       Rashid Azarang
 // @author       Petr Aleksandrovich Sabanov
@@ -35,7 +35,7 @@
             margin: 10px;
             padding: 10px;
             border-radius: 5px;
-            background-color: #10a37f;
+            background-color: #171717;
             color: white;
             border: none;
             cursor: pointer;
